@@ -6,3 +6,5 @@ test
 *.so
 solution.txt
 lib/
+.vs/
+Debug/
