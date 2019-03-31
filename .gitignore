@@ -5,3 +5,4 @@ test
 *.dll
 *.so
 solution.txt
+lib/

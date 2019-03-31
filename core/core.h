@@ -1,7 +1,8 @@
 #ifndef CORE_H
 #define CORE_H
 
-#include "WordGraph.h"
+#include <vector>
+#include <string>
 
 int gen_chain_word(const char* words[], int len, char* result[], char head = '\0', char tail = '\0');
 

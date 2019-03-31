@@ -1,4 +1,5 @@
 #include "core.h"
+#include "WordGraph.h"
 using namespace std;
 
 static vector<string>::size_type depthLimit;
