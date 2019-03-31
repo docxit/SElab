@@ -1,0 +1,7 @@
+*.o
+test
+*.exe
+*.a
+*.dll
+*.so
+solution.txt
